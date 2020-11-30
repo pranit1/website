@@ -1,7 +1,7 @@
 ---
 title: My Youth Romantic Comedy Is Wrong, As I Expected 
 date: "2020-09-25T22:12:03.284Z"
-description: "My favorite anime"
+description: "A Review of my favorite anime"
 ---
 My Youth Romantic Comedy Is Wrong, As I Expected or more commonly known as Oregairu is a Japanese Light novel that has been adapted to manga and anime. It is my favorite anime of all time and so I decided to write a little review. 
 

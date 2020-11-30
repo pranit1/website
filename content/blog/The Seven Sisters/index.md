@@ -1,7 +1,7 @@
 ---
 title: The Seven Sisters
 date: "2019-06-11T22:12:03.284Z"
-description: "The Seven Sisters"
+description: "The mythology of Seven Sisters"
 ---
 The Pleiades star cluster, also known as the Seven Sisters and Messier 45, is a conspicuous object in the night sky with a prominent place in ancient mythology.
 For ages, the Pleiades have been used as an eye test for people all over the world. If you could see at least six of them, you were considered normal.

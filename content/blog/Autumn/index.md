@@ -1,7 +1,7 @@
 ---
 title: Autumn
 date: "2019-07-21T22:12:03.284Z"
-description: "MY favorite artwork"
+description: "My favorite artwork and season, Autumn!"
 ---
 
 
