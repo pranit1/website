@@ -1,6 +1,5 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -48,7 +47,7 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
-   <footer><p>Follow me on github</p> <a href = "https://github.com/pranit1"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50" width = "50"></img></a></footer>
+   
     </Layout>
   )
 }
@@ -75,5 +74,21 @@ export const pageQuery = graphql`
         }
       }
     }
+
+      avatar_github: file(absolutePath: { regex: "/github.png/" }) {
+        childImageSharp {
+          fixed(width: 80, height: 80, quality: 100) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+      avatar_linkedin: file(absolutePath: { regex: "/linkedin.png/" }) {
+        childImageSharp {
+          fixed(width: 80, height: 80, quality: 100) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+
   }
 `
